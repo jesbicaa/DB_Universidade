@@ -21,3 +21,7 @@ Este projeto apresenta a modelagem e implementação de um banco de dados relaci
 - **Notas**, **Frequências** e **Histórico Acadêmico** relacionados às matérias e alunos.
 - **Endereços** armazenados em tabela separada, associados ao RA do aluno.
 
+  
+## 📐 Modelo Lógico em SQL
+
+![Modelo Lógico do Banco de Dados](./imagens/modelo-logico.png)
